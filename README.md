@@ -8,7 +8,7 @@ A Flutter application showcasing **multiple themes** (light, dark, and custom th
 
 | Light Theme | Dark Theme | Custom Theme |
 |--------------|-------------|---------------|
-| ![Light Theme](assets/screenshots/home_screen1.png)(assets/screenshots/home_screen2.png) | ![Dark Theme](assets/screenshots/dynamic_theme1.png) | ![Custom Theme](assets/screenshots/dynamic_theme2.png)(assets/screenshots/dynamic_theme3.png)  |
+| ![Light Theme](./assets/screenshots/home_screen1.png)(./assets/screenshots/home_screen2.png) | ![Dark Theme](./assets/screenshots/dynamic_theme1.png) | ![Custom Theme](./assets/screenshots/dynamic_theme2.png)(./assets/screenshots/dynamic_theme3.png)  |
 
 ---
 
